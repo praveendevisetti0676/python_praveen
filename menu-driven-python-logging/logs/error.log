@@ -1,0 +1,11 @@
+2026-09-08 17:56:53,659 - WARNING - Calculation attempted without login
+2026-09-08 17:57:30,609 - ERROR - Invalid login attempt for user: admin
+2026-09-08 17:57:30,610 - ERROR - Authentication error: Invalid username or password.
+2026-09-08 17:58:39,019 - ERROR - Division by zero attempted
+2026-09-08 17:58:39,019 - ERROR - Calculation error: Cannot divide by zero.
+2026-09-08 17:58:57,333 - ERROR - Invalid numeric input: could not convert string to float: 'a'
+2026-09-08 17:59:21,277 - WARNING - Invalid operation: %
+2026-09-08 17:59:21,277 - ERROR - Calculation error: Invalid operation.
+2026-09-08 18:00:21,577 - WARNING - File was empty: data.txt
+2026-09-08 18:00:38,401 - ERROR - File could not be opened: text1.txt
+2026-09-08 18:03:06,564 - WARNING - Calculation attempted without login

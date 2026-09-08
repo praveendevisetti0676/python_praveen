@@ -1,0 +1,30 @@
+2026-09-08 17:56:33,064 - INFO - Application exited normally
+2026-09-08 17:56:51,860 - DEBUG - Application started
+2026-09-08 17:56:53,659 - WARNING - Calculation attempted without login
+2026-09-08 17:57:30,609 - DEBUG - Login attempt for user: admin
+2026-09-08 17:57:30,609 - ERROR - Invalid login attempt for user: admin
+2026-09-08 17:57:30,610 - ERROR - Authentication error: Invalid username or password.
+2026-09-08 17:58:04,630 - DEBUG - Login attempt for user: admin
+2026-09-08 17:58:04,631 - INFO - User logged in: admin
+2026-09-08 17:58:39,018 - DEBUG - Calculation requested: 15.0 / 0.0
+2026-09-08 17:58:39,019 - ERROR - Division by zero attempted
+2026-09-08 17:58:39,019 - ERROR - Calculation error: Cannot divide by zero.
+2026-09-08 17:58:57,333 - ERROR - Invalid numeric input: could not convert string to float: 'a'
+2026-09-08 17:59:21,277 - DEBUG - Calculation requested: 15.0 % 4.0
+2026-09-08 17:59:21,277 - WARNING - Invalid operation: %
+2026-09-08 17:59:21,277 - ERROR - Calculation error: Invalid operation.
+2026-09-08 17:59:52,186 - DEBUG - Calculation requested: 15.0 * 2.0
+2026-09-08 17:59:52,186 - INFO - Calculation completed
+2026-09-08 18:00:21,577 - DEBUG - Reading file: data.txt
+2026-09-08 18:00:21,577 - WARNING - File was empty: data.txt
+2026-09-08 18:00:38,401 - DEBUG - Reading file: text1.txt
+2026-09-08 18:00:38,401 - ERROR - File could not be opened: text1.txt
+2026-09-08 18:01:18,678 - DEBUG - Writing to file: data.txt
+2026-09-08 18:01:18,679 - INFO - File written successfully: data.txt
+2026-09-08 18:02:03,900 - DEBUG - Writing to file: data1.txt
+2026-09-08 18:02:03,901 - INFO - File written successfully: data1.txt
+2026-09-08 18:02:42,054 - DEBUG - Reading file: data1.txt
+2026-09-08 18:02:42,054 - INFO - File read successfully: data1.txt
+2026-09-08 18:02:59,942 - INFO - User logged out: admin
+2026-09-08 18:03:06,564 - WARNING - Calculation attempted without login
+2026-09-08 18:05:17,339 - INFO - Application exited normally
