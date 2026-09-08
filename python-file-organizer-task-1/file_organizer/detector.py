@@ -16,7 +16,7 @@ FILE_CATEGORIES = {
     ".doc": "Documents",
     ".docx": "Documents",
     ".ppt" : "Documents",
-    ".pptx": "Documents"
+    ".pptx": "Documents",
 
     ".csv": "Data",
     ".xlsx": "Data",
