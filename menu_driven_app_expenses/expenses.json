@@ -1,0 +1,37 @@
+[
+  {
+    "expense_id": 1179722214976,
+    "description": "purchase of phone",
+    "amount": 25000.0,
+    "category": "General",
+    "date": "2026-09-10 21:12:39"
+  },
+  {
+    "expense_id": 1179721579920,
+    "description": "purchase of food",
+    "amount": 2000.0,
+    "category": "Food",
+    "date": "2026-09-10 21:13:29"
+  },
+  {
+    "expense_id": 1179721580240,
+    "description": "purse of movie tickets",
+    "amount": 500.0,
+    "category": "Entertainment",
+    "date": "2026-09-10 21:14:25"
+  },
+  {
+    "expense_id": 1179722275744,
+    "description": "purchase of vegitabales",
+    "amount": 250.0,
+    "category": "Food",
+    "date": "2026-09-10 21:15:21"
+  },
+  {
+    "expense_id": 1179722276656,
+    "description": "purchse metro pass",
+    "amount": 2500.0,
+    "category": "Transport",
+    "date": "2026-09-10 21:15:38"
+  }
+]
